@@ -34,7 +34,7 @@ function Navbar(){
         <>
         <nav className="bg-gray-800 text-white sticky top-0">
         <div className="container text-sm md:text-xl p-3 md:pl-10 md:pr-10 flex items-center justify-between">
-        <h1 className="font-semibold md:font-bold md:text-2xl">🚀 MyWebsite</h1>
+        <h1 className="font-semibold md:font-bold md:text-3xl">🚀 MyWebsite</h1>
         <ul className="flex gap-3 md:space-x-6">
             {/* <li>
                 <a href="" className="flex items-center gap-1 hover:text-blue-400"><FaHome />Home</a>
